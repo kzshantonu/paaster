@@ -20,7 +20,7 @@
 body {
     background-color: var(--darkBg);
     color: var(--textWhite);
-    font-family: MesloLGSNFRegular, monospace;
+    font-family: FantasqueSansMNerdFont, monospace;
 }
 
 h1,
@@ -39,8 +39,8 @@ h6 {
 }
 
 @font-face {
-    font-family: MesloLGSNFRegular;
-    src: url(./fonts/MesloLGSNFRegular.ttf) format('truetype');
+    font-family: FantasqueSansMNerdFont;
+    src: url(./fonts/FantasqueSansMNerdFont-Regular.ttf) format('truetype');
 }
 
 input {
@@ -95,7 +95,7 @@ textarea {
     width: 90vw;
     height: 80vh;
     overflow: hidden;
-    font-family: MesloLGSNFRegular;
+    font-family: FantasqueSansMNerdFont;
     font-size: .8em;
 }
 
@@ -106,7 +106,7 @@ textarea:focus {
 textarea:placeholder-shown {
     color: var(--lighterBg);
     font-size: 1.2em;
-    font-family: MesloLGSNFRegular;
+    font-family: FantasqueSansMNerdFont;
 }
 
 section {
@@ -187,7 +187,7 @@ footer {
     background-color: var(--lightBg) !important;
     color: var(--textWhite) !important;
     border-radius: 3em !important;
-    font: MesloLGSNFRegular;
+    font: FantasqueSansMNerdFont;
 }
 
 .modal {
@@ -276,7 +276,7 @@ footer {
 }
 
 pre>code {
-    font-family: MesloLGSNFRegular, monospace;
+    font-family: FantasqueSansMNerdFont, monospace;
     font-size: .8em;
 }
 
