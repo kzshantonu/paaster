@@ -99,7 +99,7 @@
 			name="create-paste"
 			id="pasted-code"
 		/>
-		<section>
+		<!-- <section>
 			<h3>{$_('about.title')}</h3>
 			<p>
 				{$_('about.content')}
@@ -114,6 +114,6 @@
 			</p>
 			<a href="/privacy-policy" style="margin-top: 1em;display: block;">Privacy policy</a>
 			<a href="/terms-of-service" style="display: block;">Terms of service</a>
-		</section>
+		</section> -->
 	</main>
 {/if}
