@@ -96,7 +96,7 @@ textarea {
     height: 80vh;
     overflow: hidden;
     font-family: FantasqueSansMNerdFont;
-    font-size: .8em;
+    font-size: 1.2em;
 }
 
 textarea:focus {
@@ -277,7 +277,7 @@ footer {
 
 pre>code {
     font-family: FantasqueSansMNerdFont, monospace;
-    font-size: .8em;
+    font-size: 1.2em;
 }
 
 .generate-pass-form {
