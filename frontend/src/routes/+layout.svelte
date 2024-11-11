@@ -22,11 +22,11 @@
 		</h1></a
 	>
 	<ul>
-		<li>
+		<!-- <li>
 			<a href="https://github.com/WardPearce/paaster" target="_blank" rel="noopener noreferrer">
 				<i class="lab la-github" /></a
 			>
-		</li>
+		</li> -->
 		<li>
 			<a href="/pastes" class="button"><i class="lab la-buffer" />{$_('saved_pastes')}</a>
 		</li>
