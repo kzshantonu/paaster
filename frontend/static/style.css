@@ -96,7 +96,7 @@ textarea {
     height: 80vh;
     overflow: hidden;
     font-family: FantasqueSansMNerdFont;
-    font-size: 1.2em;
+    font-size: 1em;
 }
 
 textarea:focus {
@@ -105,7 +105,7 @@ textarea:focus {
 
 textarea:placeholder-shown {
     color: var(--lighterBg);
-    font-size: 1.2em;
+    font-size: 1em;
     font-family: FantasqueSansMNerdFont;
 }
 
@@ -277,7 +277,7 @@ footer {
 
 pre>code {
     font-family: FantasqueSansMNerdFont, monospace;
-    font-size: 1.2em;
+    font-size: 1em;
 }
 
 .generate-pass-form {
